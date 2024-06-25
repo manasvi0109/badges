@@ -1,1 +1,1 @@
-const pair = "badge1"
+const pair = "badges1"
